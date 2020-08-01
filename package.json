@@ -1,0 +1,17 @@
+{
+  "name": "JSAutomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha API/Tests --full-trace",
+    "repl": "node --experimental-repl-await"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mocha": "^8.0.1"
+  }
+}
