@@ -16,5 +16,6 @@ describe('API demo response', () => {
   it('status text should be OK', () => {
     assert(response.statusText === 'OK', 'status text is not equal to OK')
   });
+  //just adding some random change
 
 });
